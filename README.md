@@ -1,4 +1,7 @@
 # Worm Game
 This is worm 2d game versually using turtle python library
 ## installation
-only clone the repository and check that turtle library is installed then start playing
+- clone the repository
+- check that turtle library is installed
+- run worm.py
+- start playing
