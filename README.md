@@ -2,7 +2,7 @@
 
 This is worm 2d game versually using turtle python library
 
-## installation
+## Installation
 
 - clone the repository
 - check that turtle library is installed
